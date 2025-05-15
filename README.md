@@ -10,8 +10,8 @@ In each program, you will find a clear description of the problem statement with
 ```text
 /Leetcode-practice
 ├── /Java
-│   ├── TwoSum.py
-│   ├── PalindromeNumber.java
+│   ├── TwoSum.java
+│   ├── StockBuyAndSell.java
 │   └── ...
 ├── README.md
 ```
