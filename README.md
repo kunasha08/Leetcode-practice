@@ -10,8 +10,12 @@ In each program, you will find a clear description of the problem statement with
 ```text
 /Leetcode-practice
 ├── /Java
-│   ├── TwoSum.java
-│   ├── StockBuyAndSell.java
+│   ├── StockBuyandSell.java
+│   ├── Permutations.java
+│   └── ...
+├── /Python
+│   ├── TwoSum.py
+│   ├── LongestSubstringWithoutRepeatingCharacters.py
 │   └── ...
 ├── README.md
 ```
