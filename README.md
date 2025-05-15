@@ -8,7 +8,7 @@ In each program, you will find a clear description of the problem statement with
 ## 📂 Repository Structure
 
 ```text
-/LeetCode-Solutions
+/Leetcode-practice
 ├── /Java
 │   ├── TwoSum.py
 │   ├── PalindromeNumber.java
