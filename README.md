@@ -14,7 +14,6 @@ In each program, you will find a clear description of the problem statement with
 │   ├── PalindromeNumber.java
 │   └── ...
 ├── README.md
-└── LICENSE
 ```
 
 
@@ -22,10 +21,10 @@ In each program, you will find a clear description of the problem statement with
 ## 📊 Tracking my Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | `18` |
-| Medium     | `12` |
+| Easy       | `20` |
+| Medium     | `14` |
 
-**Total Problems Solved:** `30`  
+**Total Problems Solved:** `34`  
 
 ## 🛠️ Languages Used
 
