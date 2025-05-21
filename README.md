@@ -25,10 +25,10 @@ In each program, you will find a clear description of the problem statement with
 ## 📊 Tracking my Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | `20` |
+| Easy       | `22` |
 | Medium     | `14` |
 
-**Total Problems Solved:** `34`  
+**Total Problems Solved:** `36`  
 
 ## 🛠️ Languages Used
 
